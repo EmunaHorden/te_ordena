@@ -111,7 +111,7 @@ a { text-decoration: none; color: inherit; }
   z-index: 1;
 }
 .founder-photo {
-  width: 115%; max-width: 250px;
+  width: 100%; max-width: 250px;
   border-radius: 0;
   border: 4px solid #fff;
 }
